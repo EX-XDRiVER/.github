@@ -4,6 +4,6 @@ You can make a bug report on the [issue tracker](https://github.com/EX-XDRiVER/I
 
 ## Socials
 
-[Twitter](https://twitter.com/exdrv)
-[Bluesky](https://bsky.app/profile/xdrv.bsky.social)
-[Community Discord Server](https://discord.gg/kPxStHrJxY)
+[Twitter](https://twitter.com/exdrv)<br>
+[Bluesky](https://bsky.app/profile/xdrv.bsky.social)<br>
+[Community Discord Server](https://discord.gg/kPxStHrJxY)<br>
