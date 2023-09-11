@@ -1,7 +1,7 @@
 ## Welcome to the EX-XDRiVER GitHub Page!
 
-You can make a bug report on the **[issue tracker](https://github.com/EX-XDRiVER/Issues/issues)**! <br/>
-Or, you can read up on the current **[custom content documentation](https://github.com/EX-XDRiVER/Chart-Documentation)**!
+Looking to report a bug? Go visit our **[issue tracker](https://github.com/EX-XDRiVER/Issues/issues)**! <br/>
+Looking to make custom charts and content for the game? Here's our **[custom content documentation](https://github.com/EX-XDRiVER/Chart-Documentation)**!
 
 ## Socials
 
