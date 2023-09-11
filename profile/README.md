@@ -1,6 +1,6 @@
 ## Welcome to the EX-XDRiVER GitHub Page!
 
-You can make a bug report on the [issue tracker](https://github.com/EX-XDRiVER/Issues)!
+You can make a bug report on the [issue tracker](https://github.com/EX-XDRiVER/Issues/issues)!
 
 ## Socials
 
