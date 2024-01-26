@@ -7,4 +7,4 @@ Want to make custom charts and content for the game? Here's our **[custom conten
 
 **[Twitter](https://twitter.com/exdrv)**<br/>
 **[Bluesky](https://bsky.app/profile/xdrv.team)**<br/>
-**[Community Discord Server](https://discord.gg/kPxStHrJxY)**<br/>
+**[Community Discord Server](https://discord.gg/JGb4VTGTmk)**<br/>
